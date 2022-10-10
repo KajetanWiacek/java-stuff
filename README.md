@@ -1,6 +1,6 @@
 # Java Stuff
 
-## Naucz się Javy oraz najpopularniejszych frameworków
+## Naucz się teorii Javy oraz najpopularniejszych frameworków
 
 ## Zaktualizowane tematy
 
