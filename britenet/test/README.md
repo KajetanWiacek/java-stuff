@@ -32,6 +32,7 @@ usecase (Last\nusecase) as UC4
 
 @enduml
 ```
+![README](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuUBII4dCAadKvD8eAChFIiqkqLH8B5RG27KsqkGgBKvDJYnELGXrDeQpDNmIYqjYyg1SiE9GPnCkBeVKl1IWUG00 "README")
 
 ## 4. DUPA NR 3
 
